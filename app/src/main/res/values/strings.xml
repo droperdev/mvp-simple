@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">overall</string>
+    <string name="group_name">Nombre de grupo</string>
+    <string name="save">Guardar</string>
+    <string name="saving">Guardando...</string>
+    <string name="loading">Cargando...</string>
+    <string name="stored_correctly">Guardado correctamente</string>
+    <string name="delete">Eliminar</string>
+    <string name="groups_successful_deleted">Grupos eliminados correctamente.</string>
+</resources>
